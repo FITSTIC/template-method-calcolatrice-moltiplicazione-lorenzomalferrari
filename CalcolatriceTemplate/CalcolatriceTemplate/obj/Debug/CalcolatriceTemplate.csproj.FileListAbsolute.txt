@@ -1,0 +1,7 @@
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\bin\Debug\CalcolatriceTemplate.exe.config
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\bin\Debug\CalcolatriceTemplate.exe
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\bin\Debug\CalcolatriceTemplate.pdb
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\obj\Debug\CalcolatriceTemplate.csprojResolveAssemblyReference.cache
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\obj\Debug\CalcolatriceTemplate.csproj.CoreCompileInputs.cache
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\obj\Debug\CalcolatriceTemplate.exe
+C:\Users\LORENZO.MALFERRARI\Desktop\FITSTIC\Venturi\CarcolatriceTemplate\CalcolatriceTemplate\CalcolatriceTemplate\obj\Debug\CalcolatriceTemplate.pdb

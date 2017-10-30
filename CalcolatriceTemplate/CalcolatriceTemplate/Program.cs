@@ -6,17 +6,22 @@ using System.Threading.Tasks;
 
 namespace CalcolatriceTemplate
 {
+    /**
+     * Author Lorenzo Malferrari
+     */
     class Program
     {
         static void Main(string[] args)
         {
 
             CalcolatriceStandard cst = new CalcolatriceStandard();
+            Console.WriteLine("Metodo standard");
             cst.Calcola(3, 8);
 
             Console.WriteLine();
 
             CalcolatriceSomma cso = new CalcolatriceSomma();
+            Console.WriteLine("Metodo Moltiplicazione usando la somma");
             cso.Calcola(3, 8);
 
             Console.ReadLine();
